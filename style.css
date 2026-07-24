@@ -369,3 +369,57 @@ nav ul{
 }
 
 }
+.skills-container{
+
+    display:flex;
+
+    justify-content:center;
+
+    flex-wrap:wrap;
+
+    gap:20px;
+
+    margin-top:40px;
+
+}
+
+.skill{
+
+    background:#6C63FF;
+
+    color:white;
+
+    padding:15px 30px;
+
+    border-radius:30px;
+
+    font-weight:600;
+
+    transition:.3s;
+
+}
+
+.skill:hover{
+
+    background:#5148f0;
+
+    transform:translateY(-5px);
+
+}
+@media(max-width:768px){
+
+.skills-container{
+
+justify-content:center;
+
+}
+
+.skill{
+
+width:160px;
+
+text-align:center;
+
+}
+
+}
