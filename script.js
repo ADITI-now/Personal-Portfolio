@@ -1,5 +1,5 @@
 // Welcome Message
-console.log("Welcome to my Portfolio!");
+console.log("Welcome to my Portfolio Aditi here!");
 
 // View Projects Button
 const projectBtn = document.getElementById("projectBtn");
