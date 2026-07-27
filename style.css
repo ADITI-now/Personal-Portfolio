@@ -14,8 +14,8 @@ html{
 }
 
 body{
-    background:#f8f9ff;
-    color:#222;
+    background:#0F172A;
+    color:#F8FAFC;
     line-height:1.6;
 }
 
@@ -33,7 +33,7 @@ nav{
     justify-content:space-between;
     align-items:center;
     padding:25px 8%;
-    background:#fff;
+    background:#111827;
     position:sticky;
     top:0;
     z-index:1000;
@@ -41,7 +41,7 @@ nav{
 }
 
 nav h2{
-    color:#6C63FF;
+    color:#3B82F6;
     font-size:32px;
 }
 
@@ -53,13 +53,13 @@ nav ul{
 
 nav ul li a{
     text-decoration:none;
-    color:#333;
+    color:#F8FAFC;
     font-weight:600;
     transition:.3s;
 }
 
 nav ul li a:hover{
-    color:#6C63FF;
+    color:#3B82F6;
 }
 
 /* =========================
@@ -166,7 +166,7 @@ section p{
 
     border-radius:15px;
 
-    box-shadow:0 5px 15px rgba(0,0,0,.08);
+    box-shadow:0 5px 20px rgba(59,130,246,.15);
 
     transition:.3s;
 
