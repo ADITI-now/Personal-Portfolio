@@ -21,6 +21,7 @@ This project represents the beginning of my web development journey, where I wil
 
 # Author
 **Aditi Jha**
+curious to learn technology
 
 ---
 
