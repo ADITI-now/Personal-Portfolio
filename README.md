@@ -22,6 +22,10 @@ This project represents the beginning of my web development journey, where I wil
 # Author
 **Aditi Jha**
 curious to learn technology
+## Internship Status
+✅ Web Development Internship completed successfully.
+
+Thank you Codomax Digital Solutions for this learning opportunity.
 
 ---
 
